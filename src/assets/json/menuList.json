@@ -1,0 +1,42 @@
+[
+    {
+        "NODE_ID": 2,
+        "MENU_NAME": "首页",
+        "PIC_ICON": "",
+        "URL_LINK": "/home",
+        "F_NODE": 1,
+        "is_click": 1,
+        "children": [],
+        "menuType": ""
+    },
+    {
+        "NODE_ID": 3,
+        "MENU_NAME": "表单列表",
+        "PIC_ICON": "",
+        "URL_LINK": "/formList",
+        "F_NODE": 1,
+        "is_click": 1,
+        "children": [],
+        "menuType": ""
+    },
+    {
+        "NODE_ID": 4,
+        "MENU_NAME": "菜单列表",
+        "PIC_ICON": "",
+        "URL_LINK": "/menuList",
+        "F_NODE": 1,
+        "is_click": 1,
+        "children": [],
+        "menuType": ""
+    },
+    {
+        "NODE_ID": 5,
+        "MENU_NAME": "角色列表",
+        "PIC_ICON": "",
+        "URL_LINK": "/roleList",
+        "F_NODE": 1,
+        "is_click": 1,
+        "children": [],
+        "menuType": ""
+    }
+]
